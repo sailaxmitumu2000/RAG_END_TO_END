@@ -133,6 +133,10 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+__pycache__/
+*.pyc
+.env
+
 
 # Environments
 .env
@@ -200,6 +204,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
 
 # Marimo
 marimo/_static/
