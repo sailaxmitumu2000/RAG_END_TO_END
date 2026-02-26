@@ -37,15 +37,6 @@ Production-style Retrieval-Augmented Generation system for ingesting PDFs, perfo
 * NumPy
 * Async background tasks
 
----
-
-## 📸 Demo
-
-### Upload API
-![Upload](screenshots/upload_api.png)
-
-### Query Response
-![Query](screenshots/query_response.png)
 
 ---
 
